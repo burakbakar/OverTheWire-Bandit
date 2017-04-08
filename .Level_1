@@ -3,5 +3,6 @@
 1-) ls
 2-) cat readme
 3-) copy to KEY CODE
-4-) ssh bandit1@bandit.labs.overthewire.org
-5-) paste key code
+4-) exit
+5-) ssh bandit1@bandit.labs.overthewire.org
+6-) paste key code
