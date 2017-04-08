@@ -1,0 +1,11 @@
+	Level 5
+
+1-) ls
+2-) cd inhere
+3-) ls -la
+4-) find -size 1033c
+5-) cat ./maybehere07/.file2
+3-) copy to KEY CODE (DXjZPULLxYr17uwoI01bNLQbtFemEgo7)
+4-) exit
+5-) ssh bandit6@bandit.labs.overthewire.org
+6-) paste key code
