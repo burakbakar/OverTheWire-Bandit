@@ -1,0 +1,6 @@
+	Level 0
+
+1-) open ssh
+2-) ssh bandit0@bandit.labs.overthewire.org
+-> yes
+3-) password : bandit0
