@@ -1,0 +1,11 @@
+	Level 7
+
+1-) ls -lah
+2-) cd ..
+3-) ls -lah
+4-) cd bandit8
+5-) grep "millionth" /home/bandit7/data.txt
+3-) copy to KEY CODE (cvX2JJa4CFALtqS87jk27qwqGhBM9plV)
+4-) exit
+5-) ssh bandit8@bandit.labs.overthewire.org
+6-) paste key code
