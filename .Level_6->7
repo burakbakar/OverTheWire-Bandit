@@ -1,0 +1,11 @@
+	      Level 6
+
+1-) ls -lah
+2-) cd ..
+3-) ls -lah
+4-) find | grep "bandit7"
+5-) cat ./var/lib/dpkg/info/bandit7.password
+3-) copy to KEY CODE (HKBPTKQnIay4Fw76bEy8PVxKEDQRKTzs)
+4-) exit
+5-) ssh bandit7@bandit.labs.overthewire.org
+6-) paste key code
